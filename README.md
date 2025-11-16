@@ -53,7 +53,7 @@ git clone https://github.com/bhavishy03/To-Do-App.git
 
 ## 📸 Screenshot
 
-![App Screenshot](https://raw.githubusercontent.com/bhavishy03/To-Do-App/refs/heads/main/todo-app-ui.png)
+![App Screenshot](https://raw.githubusercontent.com/bhavishy03/To-Do-App/refs/heads/main/todo.png)
 
 ---
 
